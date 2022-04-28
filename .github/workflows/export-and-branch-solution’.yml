@@ -25,7 +25,7 @@ on:
        default: solutions/
 env:
 #edit your values here
-  ENVIRONMENT_URL: '<ENVIRONMENTURL>'
+  ENVIRONMENT_URL: '<https://orgf800fcba.crm8.dynamics.com/>'
   CLIENT_ID: '<APPID>'
   TENANT_ID: '<TENANT ID>'
 
